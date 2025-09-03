@@ -6,3 +6,7 @@ pinta = 3.14159 * (sade)**2
 #Tein siis pinta = kohtaan tuon koodin ja siihen piin 5 likiarvolla.
 print (f"Ympyrän pinta-ala on: {pinta:2.2f}")
 
+#sade 0 float (input("Anna ympyrän säde: "))
+#area = math.pi * radius ** 2
+
+#print(f*Ympyrän pinta-ala on: {area:.2f}.")
